@@ -2054,7 +2054,7 @@ textarea.w-input, textarea.w-select {
   --fonts--normal: 400;
   --text-size--h1-xl: clamp(3rem, 2.194rem + 4.03vw, 6.88rem);
   --line-height--line-height-0-95: 95%;
-  --letter-spacing--letter-spacing-8: -.08em;
+  --letter-spacing--letter-spacing-8: -.06em;
   --text-size--h2-l: 4.375rem;
   --line-height--line-height-1-1: 110%;
   --letter-spacing--letter-spacing-6: -.06em;
@@ -3220,7 +3220,8 @@ body {
 
 h1 {
   font-size: var(--text-size--h1-xl);
-  line-height: var(--line-height--line-height-0-95);
+  line-height: 1.1;
+  /* line-height: var(--line-height--line-height-0-95); */
   font-weight: var(--fonts--normal);
   letter-spacing: var(--letter-spacing--letter-spacing-8);
   margin-top: 0;
@@ -3304,7 +3305,7 @@ blockquote {
 
 .container {
   width: 100%;
-  max-width: 81.25rem;
+  max-width: 92rem;
   height: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -3510,7 +3511,9 @@ blockquote {
   justify-content: flex-end;
   align-items: stretch;
   display: flex;
+  color: #000 !important;
 }
+
 
 .footer-dark {
   background-color: var(--palette-1--accent-red);
@@ -5445,7 +5448,6 @@ blockquote {
 
 .bg-about-us {
   z-index: 0;
-  background-image: url("https://cdn.prod.website-files.com/67409478e7d06cee556594cb/687de0372adef1af8e3e9473_main-transform.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6293,6 +6295,7 @@ blockquote {
   transition: color .3s linear, background-color .3s linear;
   display: flex;
   position: relative;
+  border: 1px solid var(--palette-2--gray-100);
 }
 
 .button-white-grey-hover:hover {
@@ -6627,7 +6630,7 @@ blockquote {
   }
 
   .section.hero-section, .section.hero-section-product, .section.hero-section-teams {
-    height: 90vh;
+    height: 100vh;
   }
 
   .footer-wrapper {
@@ -6650,7 +6653,7 @@ blockquote {
   }
 
   .bg-about-us {
-    height: 90vh;
+    height: 100vh;
   }
 
   .header-list-black {
@@ -8714,3 +8717,4 @@ blockquote {
     justify-self: center;
   }
 }
+

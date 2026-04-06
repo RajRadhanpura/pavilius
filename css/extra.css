@@ -1,0 +1,59 @@
+@media (min-width: 992px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="753fee85-27b5-33f9-4ff5-2bbe90358824"] {
+    opacity: 0;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="753fee85-27b5-33f9-4ff5-2bbe90358824"] {
+    opacity: 0;
+  }
+}
+
+@media (max-width: 767px) and (min-width: 480px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="a5594df3-9ea6-bfbf-4bdf-0d008db27ac0"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="3a025d9b-b2fa-0e1b-16d7-95e71ea51f2b"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="31ef9154-c050-54ef-1e5c-03db1fa9c10d"] {
+    opacity: 0;
+  }
+}
+
+@media (max-width: 479px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="a5594df3-9ea6-bfbf-4bdf-0d008db27ac0"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="3a025d9b-b2fa-0e1b-16d7-95e71ea51f2b"] {
+    opacity: 0;
+  }
+
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="31ef9154-c050-54ef-1e5c-03db1fa9c10d"] {
+    opacity: 0;
+  }
+}
+
+html.w-mod-js:not(.w-mod-ix3)
+  :is(
+    .blog-posts-item,
+    .about-card,
+    .projects-item,
+    .gallery-image-wrapper,
+    .contact-card,
+    .progects-tabs-item
+  ) {
+  visibility: hidden !important;
+}
