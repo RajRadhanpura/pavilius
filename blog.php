@@ -249,7 +249,7 @@
                 <div class="blog-posts-list-wrapper w-dyn-list">
                     <div role="list" class="blog-posts-list w-dyn-items">
                         <div data-roll-animation="fade-in" role="listitem" class="blog-posts-item w-dyn-item">
-                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="#" class="blog-post-card w-inline-block">
+                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="blog-inner.php" class="blog-post-card w-inline-block">
                                 <div class="blog-post-image-wrapper">
                                     <img src="https://cdn.prod.website-files.com/676011e38753f7d22eefbfdf/6874b21e2f8c8e53bbed046c_0011.webp" loading="lazy" alt="" sizes="100vw" class="image-full-width" />
                                 </div>
@@ -277,7 +277,7 @@
                             </a>
                         </div>
                         <div data-roll-animation="fade-in" role="listitem" class="blog-posts-item w-dyn-item">
-                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="#" class="blog-post-card w-inline-block">
+                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="blog-inner.php" class="blog-post-card w-inline-block">
                                 <div class="blog-post-image-wrapper">
                                     <img src="https://cdn.prod.website-files.com/676011e38753f7d22eefbfdf/6874b2995ed7074873d575a3_0041.webp" loading="lazy" alt="" sizes="100vw" class="image-full-width" />
                                 </div>
@@ -304,7 +304,7 @@
                             </a>
                         </div>
                         <div data-roll-animation="fade-in" role="listitem" class="blog-posts-item w-dyn-item">
-                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="#" class="blog-post-card w-inline-block">
+                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="blog-inner.php" class="blog-post-card w-inline-block">
                                 <div class="blog-post-image-wrapper"><img src="https://cdn.prod.website-files.com/676011e38753f7d22eefbfdf/6874b2745001139fbf8e5b4b_0031.webp" loading="lazy" alt="" sizes="100vw" class="image-full-width" /></div>
                                 <div class="blog-posts-text-wrapper">
                                     <div class="grey-content">
@@ -329,7 +329,7 @@
                             </a>
                         </div>
                         <div data-roll-animation="fade-in" role="listitem" class="blog-posts-item w-dyn-item">
-                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="#" class="blog-post-card w-inline-block">
+                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="blog-inner.php" class="blog-post-card w-inline-block">
                                 <div class="blog-post-image-wrapper">
                                     <img src="https://cdn.prod.website-files.com/676011e38753f7d22eefbfdf/6874b21e2f8c8e53bbed046c_0011.webp" loading="lazy" alt="" sizes="100vw" class="image-full-width" />
                                 </div>
@@ -357,7 +357,7 @@
                             </a>
                         </div>
                         <div data-roll-animation="fade-in" role="listitem" class="blog-posts-item w-dyn-item">
-                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="#" class="blog-post-card w-inline-block">
+                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="blog-inner.php" class="blog-post-card w-inline-block">
                                 <div class="blog-post-image-wrapper">
                                     <img src="https://cdn.prod.website-files.com/676011e38753f7d22eefbfdf/6874b2995ed7074873d575a3_0041.webp" loading="lazy" alt="" sizes="100vw" class="image-full-width" />
                                 </div>
@@ -384,7 +384,7 @@
                             </a>
                         </div>
                         <div data-roll-animation="fade-in" role="listitem" class="blog-posts-item w-dyn-item">
-                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="#" class="blog-post-card w-inline-block">
+                            <a aria-label="blog posts" data-w-id="0cf8a487-c695-591b-a2e1-41dc43829223" href="blog-inner.php" class="blog-post-card w-inline-block">
                                 <div class="blog-post-image-wrapper"><img src="https://cdn.prod.website-files.com/676011e38753f7d22eefbfdf/6874b2745001139fbf8e5b4b_0031.webp" loading="lazy" alt="" sizes="100vw" class="image-full-width" /></div>
                                 <div class="blog-posts-text-wrapper">
                                     <div class="grey-content">

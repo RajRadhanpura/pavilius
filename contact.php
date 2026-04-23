@@ -3,7 +3,7 @@
 <section id="hero" class="section section-margin section-long-bottom">
     <div class="container">
         <div class="contact-content-wrapper">
-            <h1 data-w-id="af61f739-4d32-d319-a44e-d820237d14a2" data-aos="fade-up" data-aos-duration="1500">connect with PCPL</h1>
+            <h1 data-w-id="af61f739-4d32-d319-a44e-d820237d14a2" data-aos="fade-up" data-aos-duration="1500">Connect with PCPL</h1>
             <div class="contact-card-wrapper">
                 <div data-roll-animation="fade-in" class="contact-card">
                     <div class="heading-s">Head Office</div>
@@ -38,7 +38,7 @@
 <section class="section p-0 pb-100px">
     <div class="container">
         <div class="contact-content-wrapper">
-            <h2 data-w-id="af61f739-4d32-d319-a44e-d820237d14a2" data-aos="fade-up" data-aos-duration="1500">Or <br/>Get in touch with us</h2>
+            <h2 data-w-id="af61f739-4d32-d319-a44e-d820237d14a2" data-aos="fade-up" data-aos-duration="1500">Or <br />Get in touch with us</h2>
 
             <form class="custom-contact-form">
 

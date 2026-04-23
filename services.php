@@ -18,11 +18,20 @@
                 <div class="gallery-item-content-wrapper">
                     <div class="gallery-container">
                         <div class="gallery-item-content-inner">
-                            <h2>Responsive customer support</h2>
+                            <h2>Architecture Services</h2>
                             <div class="gallery-item-text-wrapper">
-                                <div class="heading-s">Have questions or need assistance?</div>
-                                <div class="text-s">Our dedicated customer support team is here to help. We pride ourselves on being
-                                    responsive and ensuring that your experience is smooth and enjoyable.</div>
+                                <div class="heading-s">Serices Part</div>
+                                <div class="text-m">
+                                    <ul role="list">
+                                        <li>Residential</li>
+                                        <li>Institutional</li>
+                                        <li>Industrial</li>
+                                        <li>Hospitality</li>
+                                        <li>Institutional Projects</li>
+                                        <li>Public Buildings</li>
+                                        <li>Interior Design</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -42,16 +51,27 @@
                 <div class="gallery-item-content-wrapper">
                     <div class="gallery-container">
                         <div class="gallery-item-content-inner">
-                            <h2>Timely delivery and setup</h2>
+                            <h2>Urban Planning & Landscape design</h2>
                             <div class="gallery-item-text-wrapper">
-                                <div class="heading-s">Experience the joy of your new home additions sooner with our prompt delivery
-                                    services.</div>
-                                <div class="text-s">Our logistics team ensures that your purchases arrive on time and are set up
-                                    with care, allowing you to enjoy your transformed space without delay.</div>
+                                <div class="heading-s">Serices Part</div>
+                                <div class="text-m">
+                                    <ul role="list">
+                                        <li>Lake Development</li>
+                                        <li>Parks & Gardens</li>
+                                        <li>Road Beautification</li>
+                                        <li>Junctions</li>
+                                        <li>Public Transport</li>
+                                        <li>Urban Infrastructure</li>
+                                        <li>Conservation</li>
+                                        <li>Urban Gates</li>
+                                        <li>Foot over Bridges</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div><img
+                </div>
+                <img
                     src="https://cdn.prod.website-files.com/67409478e7d06cee556594cb/68764836bbcf0f66136e89f7_0102.webp"
                     loading="lazy" width="1472"
                     alt="Curved white concrete architecture against a clear blue sky, showcasing smooth lines and modern design elements."
@@ -67,15 +87,22 @@
                 <div class="gallery-item-content-wrapper">
                     <div class="gallery-container">
                         <div class="gallery-item-content-inner">
-                            <h2>Responsive customer support</h2>
+                            <h2> PMC and TPI</h2>
                             <div class="gallery-item-text-wrapper">
-                                <div class="heading-s">Have questions or need assistance?</div>
-                                <div class="text-s">Our dedicated customer support team is here to help. We pride ourselves on being
-                                    responsive and ensuring that your experience is smooth and enjoyable.</div>
+                                <div class="heading-s">Serices Part</div>
+                                <div class="text-m">
+                                    <ul role="list">
+                                        <li>PMC</li>
+                                        <li>Liaisoning</li>
+                                        <li>Building Engineering</li>
+                                        <li>Third Party Inspection</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div><img
+                </div>
+                <img
                     src="https://cdn.prod.website-files.com/67409478e7d06cee556594cb/6876481a725738dce1dffb55_0101.webp"
                     loading="lazy" width="1472"
                     alt="A close-up of a modern architectural staircase with curved railings and beige concrete, against a clear blue sky."
@@ -91,11 +118,17 @@
                 <div class="gallery-item-content-wrapper">
                     <div class="gallery-container">
                         <div class="gallery-item-content-inner gallery-item-content-inner___last">
-                            <h2>Inspiration for every room</h2>
+                            <h2>BIM</h2>
                             <div class="gallery-item-text-wrapper">
-                                <div class="heading-s">Whether you&#x27;re revamping a single room or your entire home</div>
-                                <div class="text-s">we provide inspiration for every corner. Explore our blog, design tips, and
-                                    lookbooks to discover ideas that will elevate every aspect of your living space.</div>
+                                <div class="heading-s">Serices Part</div>
+                                <div class="text-m">
+                                    <ul role="list">
+                                        <li>BIM Modelling</li>
+                                        <li>BIM in Design</li>
+                                        <li>BIM in Construction</li>
+                                        <li>BIM in Maintenance</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -112,7 +145,7 @@
 <section class="section section-long-padding" style="background-color: #f3f3f3;">
     <div class="container">
         <div class="about-content-wrapper">
-            <h2 data-w-id="dc0b1658-7883-69d9-ab53-a31fd2e075f1">Why Choose us</h2>
+            <h2 data-w-id="dc0b1658-7883-69d9-ab53-a31fd2e075f1">Why Choose PCPL</h2>
             <div class="about-card-wrapper">
                 <div data-roll-animation="fade-in" class="about-card">
                     <div class="about-card-number">
@@ -120,11 +153,9 @@
                     </div>
                     <div class="about-card-text">
                         <div class="text-dark">
-                            <div class="heading-s">Expert design consultations</div>
+                            <div class="heading-s">Multidisciplinary Design Expertise</div>
                         </div>
-                        <div class="text-s">Our experienced team of interior designers is here to guide you through the creative
-                            process. From selecting the perfect color palette to optimizing spatial layouts, we offer personalized
-                            consultations to ensure your vision comes to life.</div>
+                        <div class="text-s">We offer a complete range of services across architecture, interior design, urban planning, and landscape development. From residential, institutional, industrial, and hospitality projects to public buildings and urban infrastructure, our team delivers a cohesive design approach at every scale. Our work extends beyond buildings to include lake development, parks, road beautification, junction design, and conservation projects—ensuring that every space we create is functional, aesthetic, and future-ready.</div>
                     </div>
                 </div>
                 <div data-roll-animation="fade-in" class="about-card">
@@ -133,11 +164,9 @@
                     </div>
                     <div class="about-card-text">
                         <div class="text-dark">
-                            <div class="heading-s">Customization for uniqueness</div>
+                            <div class="heading-s">End-to-End Project Management</div>
                         </div>
-                        <div class="text-s">Make your home truly yours with our customization options. Whether it&#x27;s
-                            personalized furniture or bespoke decor, we provide opportunities to add unique touches that reflect
-                            your personality and lifestyle.</div>
+                        <div class="text-s">Our strength lies in delivering projects from concept to completion with precision and accountability. Through our PMC (Project Management Consultancy) and TPI (Third Party Inspection) services, we manage everything from liaisoning and approvals to building engineering and quality control. This ensures seamless coordination, adherence to timelines, and the highest construction standards, giving clients complete peace of mind throughout the project lifecycle.</div>
                     </div>
                 </div>
                 <div data-roll-animation="fade-in" class="about-card">
@@ -146,11 +175,9 @@
                     </div>
                     <div class="about-card-text">
                         <div class="text-dark">
-                            <div class="heading-s">Quality assurance</div>
+                            <div class="heading-s">Technology-Driven with BIM</div>
                         </div>
-                        <div class="text-s">We take pride in delivering products of the highest quality. Our commitment to
-                            craftsmanship ensures that every piece you bring into your home meets our stringent standards,
-                            promising longevity and enduring style.</div>
+                        <div class="text-s">We leverage advanced Building Information Modeling (BIM) to enhance design accuracy and execution efficiency. From modeling and design integration to construction and maintenance, BIM enables better visualization, reduced errors, and improved collaboration among stakeholders. This future-ready approach ensures smarter decisions, cost optimization, and high-quality outcomes, making our projects more efficient, sustainable, and aligned with modern industry standards.</div>
                     </div>
                 </div>
             </div>

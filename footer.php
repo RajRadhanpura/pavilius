@@ -11,27 +11,27 @@
                     <div class="text-white">
                         <div class="text-m">Quick Links</div>
                     </div>
-                    <a data-w-id="db322f48-2f23-09d6-d09f-b7b811dc6d54" href="#" aria-current="page" class="footer-link w-inline-block w--current">
+                    <a data-w-id="db322f48-2f23-09d6-d09f-b7b811dc6d54" href="index.php" aria-current="page" class="footer-link w-inline-block w--current">
                         <div class="nav-link-text upper mobile-visible">Home</div>
                         <div class="nav-link-text lower">Home</div>
                     </a>
-                    <a data-w-id="97e2a259-96b8-570c-baa6-52f69743e600" href="#" class="footer-link w-inline-block">
+                    <a data-w-id="97e2a259-96b8-570c-baa6-52f69743e600" href="about.php" class="footer-link w-inline-block">
                         <div class="nav-link-text upper mobile-visible">About</div>
                         <div class="nav-link-text lower">About</div>
                     </a>
-                    <a data-w-id="b12c76c2-1134-2367-74c5-651a78a998ab" href="#" class="footer-link w-inline-block">
+                    <a data-w-id="b12c76c2-1134-2367-74c5-651a78a998ab" href="services.php" class="footer-link w-inline-block">
                         <div class="nav-link-text upper mobile-visible">Services</div>
                         <div class="nav-link-text lower">Services</div>
                     </a>
-                    <a data-w-id="4c916a70-5a82-558c-a210-0459777aa03e" href="#" class="footer-link w-inline-block">
+                    <a data-w-id="4c916a70-5a82-558c-a210-0459777aa03e" href="projects.php" class="footer-link w-inline-block">
                         <div class="nav-link-text upper mobile-visible">Projects</div>
                         <div class="nav-link-text lower">Projects</div>
                     </a>
-                    <a data-w-id="eabe04e6-d3b3-c434-027a-9ed272998fd5" href="#" class="footer-link w-inline-block">
+                    <a data-w-id="eabe04e6-d3b3-c434-027a-9ed272998fd5" href="blog.php" class="footer-link w-inline-block">
                         <div class="nav-link-text upper mobile-visible">Blog</div>
                         <div class="nav-link-text lower">Blog</div>
                     </a>
-                    <a data-w-id="0d376108-b82b-8050-9881-839ab6a524cc" href="#" class="footer-link w-inline-block">
+                    <a data-w-id="0d376108-b82b-8050-9881-839ab6a524cc" href="contact.php" class="footer-link w-inline-block">
                         <div class="nav-link-text upper mobile-visible">Contact</div>
                         <div class="nav-link-text lower">Contact</div>
                     </a>
@@ -222,6 +222,7 @@
 <script src="js/scrolltrigger.min.js" type="text/javascript"></script>
 <script src="js/splittext.min.js" type="text/javascript"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
 
 <script type="text/javascript">
     AOS.init();

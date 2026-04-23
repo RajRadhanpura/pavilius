@@ -44,6 +44,7 @@
     <link href="css/pavilius.css?abc=<?php echo rand(); ?>" rel="stylesheet" type="text/css" />
     <link href="css/extra.css" rel="stylesheet" type="text/css" />
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet">
 
     <!-- fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect" />
